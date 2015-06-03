@@ -2,6 +2,7 @@ obj=building
 name=wa-depot-2
 copyright=wa
 NoInfo=1
+NoConstruction=1
 Dims=1,1,8
 Type=stop
 Level=2
