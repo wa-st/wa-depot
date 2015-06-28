@@ -17,9 +17,9 @@
 ■内容物
 
 □building.wa.depot1.pak
-  ・wa-depot-1M / 疑似車庫小            …… プラットホーム( 64 )
+  ・wa-depot-1M / 疑似車庫中            …… プラットホーム( 64 )
   ・wa-depot-1L / 疑似車庫大            …… プラットホーム( 64 )
-  ・wa-depot-1S / 疑似車庫中            …… プラットホーム( 64 )
+  ・wa-depot-1S / 疑似車庫小            …… プラットホーム( 64 )
 
 □building.wa.depot2.pak
   ・wa-depot-2  / 疑似車庫新            …… プラットホーム( 64 )
@@ -33,11 +33,11 @@
 
 #---- 車庫セット ----#
 wa-depot-1M
-疑似車庫小
+疑似車庫中
 wa-depot-1L
 疑似車庫大
 wa-depot-1S
-疑似車庫中
+疑似車庫小
 wa-depot-2
 疑似車庫新
 wa-depot-3H
